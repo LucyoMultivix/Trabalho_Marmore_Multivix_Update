@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\Multivix\Trabalho_Marmore\bin\Debug\net7.0\Trabalho_Marmore.exe
+C:\Users\Acer\source\repos\Multivix\Trabalho_Marmore\bin\Debug\net7.0\Trabalho_Marmore.deps.json
+C:\Users\Acer\source\repos\Multivix\Trabalho_Marmore\bin\Debug\net7.0\Trabalho_Marmore.runtimeconfig.json
+C:\Users\Acer\source\repos\Multivix\Trabalho_Marmore\bin\Debug\net7.0\Trabalho_Marmore.dll
+C:\Users\Acer\source\repos\Multivix\Trabalho_Marmore\bin\Debug\net7.0\Trabalho_Marmore.pdb
+C:\Users\Acer\source\repos\Multivix\Trabalho_Marmore\obj\Debug\net7.0\Trabalho_Marmore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Multivix\Trabalho_Marmore\obj\Debug\net7.0\Trabalho_Marmore.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Multivix\Trabalho_Marmore\obj\Debug\net7.0\Trabalho_Marmore.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Multivix\Trabalho_Marmore\obj\Debug\net7.0\Trabalho_Marmore.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Multivix\Trabalho_Marmore\obj\Debug\net7.0\Trabalho_Marmore.dll
+C:\Users\Acer\source\repos\Multivix\Trabalho_Marmore\obj\Debug\net7.0\refint\Trabalho_Marmore.dll
+C:\Users\Acer\source\repos\Multivix\Trabalho_Marmore\obj\Debug\net7.0\Trabalho_Marmore.pdb
+C:\Users\Acer\source\repos\Multivix\Trabalho_Marmore\obj\Debug\net7.0\Trabalho_Marmore.genruntimeconfig.cache
+C:\Users\Acer\source\repos\Multivix\Trabalho_Marmore\obj\Debug\net7.0\ref\Trabalho_Marmore.dll
